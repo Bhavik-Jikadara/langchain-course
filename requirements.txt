@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-openai
+langchain-google-genai
+langchain-google-firebase
+firebase
+chromadb
+tiktoken
+sentence-transformers
+bs4
+langchainhub
+tavily-python
